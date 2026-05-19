@@ -1,106 +1,65 @@
 
-## About Me
+# Hi there, I'm Emmanuel Thomeson! 👋
+**Data Analyst | Turning Raw Data into Business Impact**
 
-I am a Data Analyst, passionate about transforming raw data into actionable insights that drive informed decision-making and business growth. I specialize in collecting, cleaning, analyzing, and visualizing data to uncover trends, identify opportunities, and solve complex problems.
+I am a passionate Data Analyst dedicated to transforming complex, raw datasets into clean, actionable insights that drive strategic decision-making. With a background blending engineering discipline and business intelligence, I focus on building end-to-end analytics solutions that optimize performance and unlock hidden opportunities.
 
-My expertise includes Python, SQL, Microsoft Excel, and Power BI, which I use to build interactive dashboards, perform exploratory data analysis, and communicate findings through clear and compelling visualizations. I focus on delivering accurate, data-driven solutions that help organizations optimize performance and make strategic decisions with confidence.
+---
 
+## 🛠️ Technical Ecosystem
 
-## What I Do
+### Languages & Core Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-- Analyze datasets to uncover trends, patterns, and actionable insights.
-- Clean, transform, and prepare raw data for accurate analysis.
-- Query and manage data using SQL.
-- Build interactive dashboards and reports in Power BI and Microsoft Excel.
-- Perform exploratory and statistical analysis using Python.
-- Create visualizations that communicate insights clearly and effectively.
-- Identify business opportunities, inefficiencies, and performance drivers.
-- Translate data findings into practical recommendations for decision-making.
-- Develop end-to-end analytics projects and portfolio case studies.
-- Continuously learn and apply best practices in data analytics and business intelligence.
+### Data Wrangling & Machine Learning
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### Business Intelligence & Visualization
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## My Approach
+### Environment & Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-I approach every analysis with a structured and business-focused mindset. My process begins with understanding the problem, stackholders and defining the key questions that need to be answered. I then collect, clean, and validate the data to ensure accuracy and reliability.
+---
 
-Using tools such as Python, SQL, Excel, and Power BI, I explore the data, identify meaningful patterns, and build visualizations that clearly communicate insights. Finally, I translate findings into actionable recommendations that support strategic decision-making and measurable outcomes.
+## 📊 What I Do (And How I Add Value)
 
-My work is guided by accuracy, curiosity, and a commitment to turning data into valuable insights that drive impact.
+*   **Data Preparation:** Cleaning, transforming, and validating messy data using Python (Pandas) and Power Query to ensure a single source of truth.
+*   **Insight Extraction:** Writing advanced SQL queries and performing Exploratory Data Analysis (EDA) to uncover trends, patterns, and anomalies.
+*   **Interactive Reporting:** Engineering dynamic, user-friendly Power BI and Excel dashboards focused on tracking key performance indicators (KPIs).
+*   **Data Storytelling:** Translating technical findings into practical, high-impact recommendations for stakeholders.
 
+---
 
-## Core Competencies
+## 🚀 Featured Analytics Projects
+<!-- TIP: Replace these placeholders with links to your actual repository folders! -->
 
-- Data Cleaning and Preparation
-- Exploratory Data Analysis (EDA)
-- Data Visualization and Dashboard Development
-- SQL Querying and Database Management
-- Business Intelligence and Reporting
-- KPI Tracking and Performance Analysis
-- Trend and Pattern Identification
-- Insight Generation and Storytelling
-- Decision Support Analytics
-- Problem Solving
-- Research and Analytical Thinking
+*   **[Project Title 1: Capstone Analytics]** – An end-to-end business intelligence project utilizing SQL for database management and Power BI for executive reporting.
+*   **[Project Title 2: Exploratory Data Analysis]** – A Python-driven deep dive into a dataset using Pandas, NumPy, and Matplotlib to solve a specific optimization problem.
 
+---
 
+## 📈 GitHub Metrics
 
-## Technical Skills
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Data-with-Thom&show_icons=true&theme=visual_studio_code&count_private=true" alt="Emmanuel's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Data-with-Thom&theme=visual_studio_code" alt="Emmanuel's Streak Stats" height="150" />
+</p>
 
-### Programming & Query Languages
-- Python
-- SQL
+---
 
-### Data Analysis Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn (Basic)
+## 📬 Let's Connect & Collaborate!
 
-### Data Visualization & Business Intelligence
-- Power BI
-- Microsoft Excel
-  
+I'm always open to discussing data projects, collaborations, or opportunities in business intelligence. 
 
-### Database Management
-- MySQL
-- SQLServer
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-thomeson/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomesonemmanuel@gmail.com)
 
-### Development Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- Visual Studio Code
-
-### Spreadsheet & Reporting
-- Pivot Tables
-- Power Query
-- Advanced Excel Functions (XLOOKUP, INDEX/MATCH, SUMIFS)
-
-
-
-## Soft Skills
-
-- Analytical Thinking
-- Problem Solving
-- Attention to Detail
-- Critical Thinking
-- Communication Skills
-- Data Storytelling
-- Time Management
-- Adaptability
-- Team Collaboration
-- Curiosity and Continuous Learning
-- Business Understanding
-- Presentation Skills
-
-
-## Contact Information
-
-- Email: thomesonemmanuel@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/emmanuel-thomeson/
-- GitHub: https://github.com/Data-with-Thom 
-- Location: Ibadan, Nigeria  
-
-
-> Feel free to reach out for collaboration, data projects, or opportunities in data analytics and business intelligence.
+📍 Based in **Ibadan, Nigeria** (Open to remote work worldwide)
