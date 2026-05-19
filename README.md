@@ -41,8 +41,8 @@ I am a passionate Data Analyst dedicated to transforming complex, raw datasets i
 ## 🚀 Featured Analytics Projects
 <!-- TIP: Replace these placeholders with links to your actual repository folders! -->
 
-*   **[Project Title 1: Capstone Analytics]** – An end-to-end business intelligence project utilizing SQL for database management and Power BI for executive reporting.
-*   **[Project Title 2: Exploratory Data Analysis]** – A Python-driven deep dive into a dataset using Pandas, NumPy, and Matplotlib to solve a specific optimization problem.
+*   **Consumer-Complaint-Analytics** – A comprehensive data analysis project examining consumer complaints in the bank of America using Excel and Power BI. 👉 [View Project](https://github.com/Data-with-Thom/Customer-Complaint-Analytics).
+*   **Codveda-Data-Analytics-Internship** - this project covers data cleaning, EDA, regression analysis, time series analysis, Predictive modeling and dashboard creation.
 
 ---
 
