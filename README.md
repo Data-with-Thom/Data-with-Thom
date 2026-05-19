@@ -46,14 +46,6 @@ I am a passionate Data Analyst dedicated to transforming complex, raw datasets i
 
 ---
 
-## 📈 GitHub Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Data-with-Thom&show_icons=true&theme=visual_studio_code&count_private=true" alt="Emmanuel's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Data-with-Thom&theme=visual_studio_code" alt="Emmanuel's Streak Stats" height="150" />
-</p>
-
----
 
 ## 📬 Let's Connect & Collaborate!
 
